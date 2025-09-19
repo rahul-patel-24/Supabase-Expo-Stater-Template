@@ -1,4 +1,4 @@
-# 📱 Expo Supabase Stater Template
+# 📱 Expo Supabase Starter Template
 
 **Supabase + Expo (SDK 53) Starter Template** A mobile-first Expo app (React 19 + React Native 0.79) that uses Supabase JWT authentication. After login, users can see their content across four main tabs.
 
